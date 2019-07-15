@@ -28,5 +28,11 @@ $$a^2 + b^2$$
 
 [my website](http://pearsoblab.github.io)
 
+# second step
 
+```python
+for i in range (20):
+    a=a+i
+
+```
 
