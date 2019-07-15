@@ -11,7 +11,6 @@ _this is, too_
 
 You can have a bulleted list:
 - first
-- second
 - third
 
 or a numbered list
