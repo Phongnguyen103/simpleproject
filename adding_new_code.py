@@ -6,3 +6,7 @@ Created on Mon Jul 15 11:51:42 2019
 """
 
 # this is my new file
+
+you can have a bulletted
+
+or number
